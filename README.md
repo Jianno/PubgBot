@@ -1,0 +1,2 @@
+# PubgBot
+Pubg stat bot
