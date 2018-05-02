@@ -71,7 +71,7 @@ def seasonStats(name, gametype):
         
         
 
-def lastMatchStats(name):
+def lastMatchStats(name): 
     urlPlayer = "https://api.playbattlegrounds.com/shards/pc-na/players?filter[playerNames]="+name
     header = {
         "Authorization": "PUBG API KEY HERE",
